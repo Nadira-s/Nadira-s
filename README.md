@@ -1,35 +1,33 @@
-# Hi, I'm Nadira Seitkazy
+# Hi, I'm Nadira Seitkazy 👋
 
-### 📍 Taraz, Kazakhstan | Jambyl Innovation High College
+### Junior iOS Developer
 
 ---
 
 ## About Me
-Aspiring mobile app developer with a strong focus on **SwiftUI and **UIKit** technologies.  
-Passionate about building high-quality mobile applications and constantly expanding my technical skills through projects and hackathons.  
-Currently studying at Jambyl Innovation High College and aiming to make an impact in the tech industry.
+Junior iOS Developer focused on building native iOS applications using **Swift**, **SwiftUI**, and **UIKit**.  
+Experienced in creating apps from scratch, implementing clean UI, and integrating APIs.  
+Continuously improving code quality, architecture, and user experience through real projects.
 
 ---
 
 ## Skills
-- SwiftUI & UIKit 
-- Flutter & Dart Development
-- Mobile Application Design
-- Problem-Solving and Debugging
+- Swift, SwiftUI, UIKit
+- iOS App Architecture (MVC / MVVM)
+- REST API Integration
+- Core Data / SQLite
+- Git & Version Control
+- Debugging & Performance Optimization
 - UI/UX Best Practices
 
 ---
 
-## Hobbies
-- Volleyball
-- Hackathons
-- Continuous Learning
+## Interests
+- Mobile App Development
+- Hackathons & Side Projects
+- Continuous Skill Improvement
 
 ---
 
 ## Connect with Me
-- [LinkedIn](:www.linkedin.com/in/nadira-seitkazy)
-
----
-
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nadira-seitkazy)
